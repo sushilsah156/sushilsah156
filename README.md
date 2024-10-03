@@ -49,11 +49,6 @@
 <br> 
 
 
-## ⭐ Pinned Repositories
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=sushilsah156&repo=project-1&theme=radical)](https://github.com/aayushkurup/project-1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=sushilsah156&repo=project-2&theme=radical)](https://github.com/aayushkurup/project-2)
-
-<br>
 
 ## 🏆 Achievements
 - Completed [Full-Stack Development Bootcamp](link-to-certification)
@@ -65,9 +60,7 @@
 > "The only way to do great work is to love what you do." — Steve Jobs
 
 <br> 
-## 🎉 Fun Facts
-- I have a pet cat named Code.
-- I enjoy hiking and have visited over 10 national parks.
+
 
 Thanks for stopping by! Feel free to check out my projects and get in touch!
 
