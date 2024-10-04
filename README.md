@@ -11,8 +11,18 @@
 - 📄 Know about my experiences [resume link](resume link)
 - ⚡ Fun fact **I think Im funny**
 
-<br>
+- <p>🔗 Connect with Me &nbsp;
+  <a href="https://linkedin.com/in/rohit123" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="26" width="26" /></a> &nbsp;
+  <a href="https://www.youtube.com/c/rohit123" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="26" width="26" /></a> &nbsp;
+  <a href="https://twitter.com/rohit123" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="26" width="26" /></a> &nbsp;
+  <a href="https://instagram.com/rohit123" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="26" width="26" /></a> &nbsp;
+</p> 
 
+<br>
 
 ## 🛠️ Technologies & Tools
 <p align="left">
@@ -39,18 +49,7 @@
 <br>
 
 
-<h2>🔗 Connect with Me &nbsp;
-  <a href="https://linkedin.com/in/rohit123" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> &nbsp;
-  <a href="https://www.youtube.com/c/rohit123" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a> &nbsp;
-  <a href="https://twitter.com/rohit123" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a> &nbsp;
-  <a href="https://instagram.com/rohit123" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a> &nbsp;
-</h2> 
 
-<br>
 
 
 ## 💬 Favorite Quote
