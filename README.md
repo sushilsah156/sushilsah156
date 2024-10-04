@@ -21,7 +21,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="26" width="26" /></a> &nbsp;
 </p> 
 
-<br>
+
 
 ## 🛠️ Technologies & Tools
 <p align="left">
@@ -36,8 +36,6 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="100" height="40" style="border-radius: 10px;"/>
   <img src="https://img.shields.io/badge/-Qt-4DC76D?style=for-the-badge&logo=qt&logoColor=white" width="100" height="40" style="border-radius: 10px;"/>
 
-
-
   <img src="https://img.shields.io/badge/-OOP-007ACC?style=for-the-badge" width="100" height="40" style="border-radius: 10px;"/> 
   <img src="https://img.shields.io/badge/-DSA-FF5733?style=for-the-badge" width="100" height="40" style="border-radius: 10px;"/> 
   <img src="https://img.shields.io/badge/-STL-4DC76D?style=for-the-badge" width="100" height="40" style="border-radius: 10px;"/> 
@@ -45,12 +43,9 @@
   <img src="https://img.shields.io/badge/-Makefile-1F1F1F?style=for-the-badge" width="100" height="40" style="border-radius: 10px;"/> 
   <img src="https://img.shields.io/badge/-GDB-0E76A8?style=for-the-badge" width="100" height="40" style="border-radius: 10px;"/> 
   <img src="https://img.shields.io/badge/-Debugging-FF5722?style=for-the-badge&logo=bug&logoColor=white" width="100" height="40" style="border-radius: 10px;"/>
-
-
-
 </p>
 
-<br>
+
 
 
 ## 📈 GitHub Stats
@@ -58,7 +53,7 @@
 |--------------|---------------------|--------------|
 | ![Aayush Kurup's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushilsah156&show_icons=true&theme=radical) | ![Aayush Kurup's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushilsah156&layout=compact&theme=radical) | ![Aayush Kurup's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sushilsah156&theme=radical) |
 
-<br>
+
 
 
 
@@ -67,7 +62,7 @@
 ## 💬 Favorite Quote
 > "The only way to do great work is to love what you do." — Steve Jobs
 
-<br> <br>
+<br> 
 
 
 Thanks for stopping by! Feel free to check out my projects and get in touch!
