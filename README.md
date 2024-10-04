@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Sushil Sah
 <p>Welcome to my GitHub profile! I'm a passionate Software Engineer from India with a passion for creating dynamic and responsive web applications. I'm a Full-Stack Developer passionate about building innovative solutions and learning new technologies. I enjoy working on both front-end and back-end development.</p>
 
-
+<br>
 
 
 ## 👨‍💻 About Me
@@ -11,7 +11,7 @@
 - 📄 Know about my experiences [resume link](resume link)
 - ⚡ Fun fact **I think Im funny**
 
-
+<br>
 
 
 ## 🛠️ Technologies & Tools
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/-Qt-4DC76D?style=for-the-badge&logo=qt&logoColor=white" width="100" height="40" style="border-radius: 10px;"/>
 </p>
 
-
+<br>
 
 
 ## 📈 GitHub Stats
@@ -36,37 +36,7 @@
 |--------------|---------------------|--------------|
 | ![Aayush Kurup's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushilsah156&show_icons=true&theme=radical) | ![Aayush Kurup's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushilsah156&layout=compact&theme=radical) | ![Aayush Kurup's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sushilsah156&theme=radical) |
 
-
-
-<h2>🔗 Connect with Me &nbsp;
-  <a href="https://linkedin.com/in/rohit123" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="100" height="40" style="border-radius: 10px;"/>
-  </a> &nbsp;
-  <a href="https://www.youtube.com/c/rohit123" target="blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" width="100" height="40" style="border-radius: 10px;"/>
-  </a> &nbsp;
-  <a href="https://twitter.com/rohit123" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" width="100" height="40" style="border-radius: 10px;"/>
-  </a> &nbsp;
-  <a href="https://instagram.com/rohit123" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="100" height="40" style="border-radius: 10px;"/>
-  </a> &nbsp;
-</h2>
-
-<h2>🔗 Connect with Me &nbsp;
-  <a href="https://linkedin.com/in/rohit123" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="100" height="40" style="border-radius: 10px;"/>
-  </a> &nbsp;
-  <a href="https://www.youtube.com/c/rohit123" target="blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" width="100" height="40" style="border-radius: 10px;"/>
-  </a> &nbsp;
-  <a href="https://twitter.com/rohit123" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" width="100" height="40" style="border-radius: 10px;"/>
-  </a> &nbsp;
-  <a href="https://instagram.com/rohit123" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="100" height="40" style="border-radius: 10px;"/>
-  </a> &nbsp;
-</h2>
+<br>
 
 
 <h2>🔗 Connect with Me &nbsp;
@@ -80,13 +50,13 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a> &nbsp;
 </h2> 
 
-
+<br>
 
 
 ## 💬 Favorite Quote
 > "The only way to do great work is to love what you do." — Steve Jobs
 
-<br> 
+<br> <br>
 
 
 Thanks for stopping by! Feel free to check out my projects and get in touch!
