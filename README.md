@@ -1,7 +1,6 @@
 # 👋 Hi there! I'm Sushil Sah
 <p>Welcome to my GitHub profile! I'm a passionate Software Engineer from India with a passion for creating dynamic and responsive web applications. I'm a Full-Stack Developer passionate about building innovative solutions and learning new technologies. I enjoy working on both front-end and back-end development.</p>
 
-<br>
 
 
 ## 👨‍💻 About Me
@@ -36,6 +35,19 @@
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="100" height="40" style="border-radius: 10px;"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="100" height="40" style="border-radius: 10px;"/>
   <img src="https://img.shields.io/badge/-Qt-4DC76D?style=for-the-badge&logo=qt&logoColor=white" width="100" height="40" style="border-radius: 10px;"/>
+
+
+
+  <img src="https://img.shields.io/badge/-OOP-007ACC?style=for-the-badge" width="100" height="40" style="border-radius: 10px;"/> 
+  <img src="https://img.shields.io/badge/-DSA-FF5733?style=for-the-badge" width="100" height="40" style="border-radius: 10px;"/> 
+  <img src="https://img.shields.io/badge/-STL-4DC76D?style=for-the-badge" width="100" height="40" style="border-radius: 10px;"/> 
+  <img src="https://img.shields.io/badge/-Shell%20Scripting-F7DF1E?style=for-the-badge&logo=shell&logoColor=black" width="100" height="40" style="border-radius: 10px;"/> 
+  <img src="https://img.shields.io/badge/-Makefile-1F1F1F?style=for-the-badge" width="100" height="40" style="border-radius: 10px;"/> 
+  <img src="https://img.shields.io/badge/-GDB-0E76A8?style=for-the-badge" width="100" height="40" style="border-radius: 10px;"/> 
+  <img src="https://img.shields.io/badge/-Debugging-FF5722?style=for-the-badge&logo=bug&logoColor=white" width="100" height="40" style="border-radius: 10px;"/>
+
+
+
 </p>
 
 <br>
