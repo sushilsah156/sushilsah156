@@ -12,13 +12,13 @@
 
 - <p>🔗 Connect with Me &nbsp;
   <a href="https://linkedin.com/in/rohit123" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="26" width="26" /></a> &nbsp;
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="23" width="26" /></a> &nbsp;
   <a href="https://www.youtube.com/c/rohit123" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="26" width="26" /></a> &nbsp;
   <a href="https://twitter.com/rohit123" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="26" width="26" /></a> &nbsp;
   <a href="https://instagram.com/rohit123" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="26" width="26" /></a> &nbsp;
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="23" width="26" /></a> &nbsp;
 </p> 
 
 
