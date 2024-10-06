@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Sushil Sah
-<p>Welcome to my GitHub profile! I'm a passionate Software Engineer from India with a passion for creating dynamic and responsive web applications. I'm a Full-Stack Developer passionate about building innovative solutions and learning new technologies. I enjoy working on both front-end and back-end development.</p>
+<p>Welcome to my GitHub profile! I'm a passionate Software Engineer from India with a passion for creating applications. I'm a Full-Stack Developer passionate about building innovative solutions and learning new technologies. I enjoy working on both front-end and back-end development.</p>
 
 
 
