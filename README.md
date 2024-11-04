@@ -4,7 +4,7 @@
 
 
 ## 👨‍💻 About Me
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently looking for a new opportunity.
 - 💬 Ask me about **C++**
 - 📫 How to reach me **example@gmail.com**
 - 📄 Know about my experiences [resume link](resume link)
