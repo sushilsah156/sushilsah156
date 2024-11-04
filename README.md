@@ -6,8 +6,8 @@
 ## 👨‍💻 About Me
 - 🌱 I’m currently looking for a new opportunity.
 - 💬 Ask me about **C++**
-- 📫 How to reach me **example@gmail.com**
-- 📄 Know about my experiences [resume link](resume link)
+- 📫 How to reach me **sushilsah1560@gmail.com**
+- 📄 Know about my experiences 
 - ⚡ Fun fact **I think Im funny**
 
 - <p>🔗 Connect with Me &nbsp;
