@@ -1,70 +1,166 @@
-# 👋 Hi there! I'm Sushil Sah
-<p>Welcome to my GitHub profile! I'm a passionate Software Engineer from India with a passion for creating applications. I'm a Full-Stack Developer passionate about building innovative solutions and learning new technologies. I enjoy working on both front-end and back-end development.</p>
+# 📊 Hey, I'm Sushil Sah
 
+### 📊 Data Analyst | 💻 C++ Developer | 🛠️ Problem Solver
 
+I'm a Software Engineer with **5 years of professional experience**, with hands-on experience across **Data Analytics & Business Intelligence** and **C++ application development**.
 
-## 👨‍💻 About Me
-- 🌱 I’m currently looking for a new opportunity.
-- 💬 Ask me about **C++**
-- 📫 How to reach me **sushilsah1560@gmail.com**
-- 📄 Know about my experiences 
-- ⚡ Fun fact **I think Im funny**
+On the analytics side, I work with **Power BI, SQL, Python, DAX, Power Query, Excel, and data analysis**. I have experience developing dashboards, analyzing business data, creating KPIs, performing data transformation, and validating reporting results.
 
-- <p>🔗 Connect with Me &nbsp;
-  <a href="https://linkedin.com/in/rohit123" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="26" width="26" /></a> &nbsp;
-  <a href="https://www.youtube.com/c/rohit123" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="26" width="26" /></a> &nbsp;
-  <a href="https://twitter.com/rohit123" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="26" width="26" /></a> &nbsp;
-  <a href="https://instagram.com/rohit123" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="26" width="26" /></a> &nbsp;
-</p> 
+On the development side, I work with **C++, OOP, STL, Linux, debugging, and application development**.
 
+I enjoy solving problems, working with data, understanding how things work, and building practical and reliable solutions.
 
+---
+
+## 📊 About Me
+
+- 📊 **Data Analyst** with hands-on experience in **Power BI, SQL, Python, and Data Analytics**
+- 📈 Experienced in **Power BI dashboards, KPI reporting, data visualization, and data analysis**
+- 🔄 Worked on **Tableau to Power BI migration and reporting modernization**
+- 🧹 Experienced in **data cleaning, transformation, validation, and reconciliation**
+- 
+- 💻 **C++ Developer** with professional experience in C++ application development
+- 🛠️ Experienced in **C++, OOP, STL, Linux, debugging, and software testing**
+- 📷 Worked on **digital camera application features**, including Picture Control and PTP/IP connectivity
+- 
+- 🌱 Currently exploring opportunities in **Data Analytics, Business Intelligence, Power BI, and C++ Development**
+- 📫 Reach me at **sunnysushil156@gmail.com**
+
+---
 
 ## 🛠️ Technologies & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" width="100" height="40" style="border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" width="100" height="40" style="border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100" height="40" style="border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="100" height="40" style="border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" width="100" height="40" style="border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="100" height="40" style="border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" width="100" height="40" style="border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="100" height="40" style="border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="100" height="40" style="border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/-Qt-4DC76D?style=for-the-badge&logo=qt&logoColor=white" width="100" height="40" style="border-radius: 10px;"/>
 
-  <img src="https://img.shields.io/badge/-OOP-007ACC?style=for-the-badge" width="100" height="40" style="border-radius: 10px;"/> 
-  <img src="https://img.shields.io/badge/-DSA-FF5733?style=for-the-badge" width="100" height="40" style="border-radius: 10px;"/> 
-  <img src="https://img.shields.io/badge/-STL-4DC76D?style=for-the-badge" width="100" height="40" style="border-radius: 10px;"/> 
-  <img src="https://img.shields.io/badge/-Shell%20Scripting-F7DF1E?style=for-the-badge&logo=shell&logoColor=black" width="100" height="40" style="border-radius: 10px;"/> 
-  <img src="https://img.shields.io/badge/-Makefile-1F1F1F?style=for-the-badge" width="100" height="40" style="border-radius: 10px;"/> 
-  <img src="https://img.shields.io/badge/-GDB-0E76A8?style=for-the-badge" width="100" height="40" style="border-radius: 10px;"/> 
-  <img src="https://img.shields.io/badge/-Debugging-FF5722?style=for-the-badge&logo=bug&logoColor=white" width="100" height="40" style="border-radius: 10px;"/>
+### 📊 Data Analytics & Business Intelligence
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/-DAX-1F4E79?style=for-the-badge" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/-Power%20Query-742774?style=for-the-badge" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/-Data%20Modeling-5C2D91?style=for-the-badge" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/-Data%20Visualization-00897B?style=for-the-badge" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/-EDA-6A1B9A?style=for-the-badge" width="100" height="40"/>
 </p>
 
+### 💻 Programming & Development
 
+<p align="left">
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/-OOP-007ACC?style=for-the-badge" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/-STL-4DC76D?style=for-the-badge" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/-DSA-FF5733?style=for-the-badge" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/-GDB-0E76A8?style=for-the-badge" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/-Debugging-FF5722?style=for-the-badge" width="100" height="40"/>
+</p>
 
+### 🛠️ Development Tools & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/-Shell%20Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/-Makefile-1F1F1F?style=for-the-badge" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100" height="40"/>
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 📊 Data Analytics & Business Intelligence
+
+#### 📈 Power BI Dashboard & Business Analysis
+
+- Developed Power BI dashboards and reports
+- Created and analyzed KPIs and business metrics
+- Used SQL for data extraction and analysis
+- Performed data cleaning and transformation
+- Performed data validation and reconciliation
+- Worked with business requirements and reporting needs
+
+#### 🔄 Tableau to Power BI Migration
+
+- Migrated Tableau dashboards to Power BI
+- Developed DAX measures and Power BI data models
+- Used Power Query for data transformation
+- Used SQL for data extraction and analysis
+- Validated KPIs, totals, and filtered results between Tableau and Power BI
+
+#### 🐍 Python & Procurement Data Analysis
+
+- Used Python, Pandas, and NumPy for data analysis
+- Performed data cleaning and transformation
+- Conducted Exploratory Data Analysis
+- Used SQL for data extraction and aggregation
+- Analyzed procurement data covering approximately **$60B in total spend**
+- Created visualizations to identify trends and spending patterns
+
+---
+
+### 💻 C++ Development
+
+#### 📷 Camera Feature Development
+
+- Developed and enhanced C++ features for digital camera applications
+- Worked on **Picture Control** and **PTP/IP connectivity** features
+- Analyzed and debugged software issues
+- Performed root cause analysis and defect fixing
+- Performed unit, integration, and system-level testing
+
+#### ⚙️ C++ Application Development
+
+- C++ application development
+- Object-Oriented Programming
+- STL and Data Structures
+- Debugging and root cause analysis
+- Linux and Windows development
+
+---
 
 ## 📈 GitHub Stats
-| GitHub Stats | Most Used Languages | Streak Stats |
-|--------------|---------------------|--------------|
-| ![Aayush Kurup's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushilsah156&show_icons=true&theme=radical) | ![Aayush Kurup's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushilsah156&layout=compact&theme=radical) | ![Aayush Kurup's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sushilsah156&theme=radical) |
 
+<p align="center">
 
+  <img src="https://github-readme-stats.vercel.app/api?username=sushilsah156&show_icons=true&theme=radical" height="170"/>
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushilsah156&layout=compact&theme=radical" height="170"/>
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushilsah156&theme=radical" height="170"/>
 
+</p>
 
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sushilsah156/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:sunnysushil156@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 ## 💬 Favorite Quote
+
 > "The only way to do great work is to love what you do." — Steve Jobs
 
-<br> 
+---
 
-
-Thanks for stopping by! Feel free to check out my projects and get in touch!
-
-
+Thanks for stopping by! Feel free to explore my repositories and connect with me.
