@@ -21,7 +21,7 @@ I enjoy solving problems, working with data, understanding how things work, and 
 - 
 - 💻 **C++ Developer** with professional experience in C++ application development
 - 🛠️ Experienced in **C++, OOP, STL, Linux, debugging, and software testing**
-- 📷 Worked on **digital camera application features**, including Picture Control and PTP/IP connectivity
+- 📷 Worked on **digital camera application features**, including Picture Control, Connection Between Cameras and Component Operations
 - 
 - 🌱 Currently exploring opportunities in **Data Analytics, Business Intelligence, Power BI, and C++ Development**
 - 📫 Reach me at **sunnysushil156@gmail.com**
@@ -81,51 +81,59 @@ I enjoy solving problems, working with data, understanding how things work, and 
 
 ### 📊 Data Analytics & Business Intelligence
 
-#### 📈 Power BI Dashboard & Business Analysis
+<table>
+<tr>
 
-- Developed Power BI dashboards and reports
-- Created and analyzed KPIs and business metrics
-- Used SQL for data extraction and analysis
-- Performed data cleaning and transformation
-- Performed data validation and reconciliation
-- Worked with business requirements and reporting needs
+<td width="50%" valign="top">
 
-#### 🔄 Tableau to Power BI Migration
+### 📈 Power BI Dashboard
 
-- Migrated Tableau dashboards to Power BI
-- Developed DAX measures and Power BI data models
-- Used Power Query for data transformation
-- Used SQL for data extraction and analysis
-- Validated KPIs, totals, and filtered results between Tableau and Power BI
+- Power BI dashboards & reports
+- KPI and business metrics
+- SQL data extraction & analysis
+- Data cleaning & transformation
+- Data validation & reconciliation
+- Business requirements & reporting
 
-#### 🐍 Python & Procurement Data Analysis
+</td>
 
-- Used Python, Pandas, and NumPy for data analysis
-- Performed data cleaning and transformation
-- Conducted Exploratory Data Analysis
-- Used SQL for data extraction and aggregation
-- Analyzed procurement data covering approximately **$60B in total spend**
-- Created visualizations to identify trends and spending patterns
+<td width="50%" valign="top">
+
+### 🔄 Tableau → Power BI
+
+- Tableau dashboard migration
+- DAX measures & data modeling
+- Power Query transformations
+- SQL data extraction & analysis
+- KPI and report validation
+- Power BI reporting
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ### 💻 C++ Development
 
-#### 📷 Camera Feature Development
+<table>
+<tr>
+
+<td width="100%" valign="top">
+
+### 📷 Camera Feature Development
 
 - Developed and enhanced C++ features for digital camera applications
-- Worked on **Picture Control** and **PTP/IP connectivity** features
+- Worked on **Picture Control** and **PTP/IP connectivity**
 - Analyzed and debugged software issues
 - Performed root cause analysis and defect fixing
 - Performed unit, integration, and system-level testing
 
-#### ⚙️ C++ Application Development
+</td>
 
-- C++ application development
-- Object-Oriented Programming
-- STL and Data Structures
-- Debugging and root cause analysis
-- Linux and Windows development
+</tr>
+</table>
 
 ---
 
